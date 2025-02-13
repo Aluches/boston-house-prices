@@ -5,7 +5,7 @@ This project predicts house prices in Boston using machine learning.
 ## 📂 Dataset
 - Source: [Boston Housing Dataset](https://www.kaggle.com/datasets)
 - Features: Various property attributes
-- Target: `MEDV` (Linear Regression Model)
+- Target: (Linear Regression Model)
 
 ## 🛠 Technologies Used
 - Python 🐍
